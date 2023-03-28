@@ -92,3 +92,8 @@ body {
   .title {
 margin-left: 135px;
 }
+
+
+img {
+    border-radius: 7px;
+}
