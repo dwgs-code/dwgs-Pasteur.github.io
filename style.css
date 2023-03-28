@@ -97,3 +97,9 @@ margin-left: 135px;
 img {
     border-radius: 7px;
 }
+
+a {
+    color: white;
+    text-style: bold;
+    text-decoration: none;
+}
