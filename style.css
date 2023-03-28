@@ -100,6 +100,6 @@ img {
 
 a {
     color: white;
-    text-style: bold;
+    font-weight: bold;
     text-decoration: none;
 }
